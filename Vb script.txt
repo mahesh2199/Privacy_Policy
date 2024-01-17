@@ -1,0 +1,32 @@
+Option Explicit
+
+Dim excelApp, workbook, worksheet
+
+' Create an Excel application object
+Set excelApp = CreateObject("Excel.Application")
+
+' Open an existing workbook
+Set workbook = excelApp.Workbooks.Open("C:\Path\To\Your\Workbook.xlsx")
+
+' Set the desired worksheet
+Set worksheet = workbook.Sheets("Sheet1") ' Replace "Sheet1" with your sheet name
+
+' Specify the column range you want to convert (e.g., column A)
+Dim columnRange
+Set columnRange = worksheet.Columns("A")
+
+' Convert text to numbers in the specified column
+columnRange.Value = columnRange.Value
+
+' Save and close the workbook
+workbook.Save
+workbook.Close
+
+' Quit Excel application
+excelApp.Quit
+
+' Release objects from memory
+Set columnRange = Nothing
+Set worksheet = Nothing
+Set workbook = Nothing
+Set excelApp = Nothing
