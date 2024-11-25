@@ -1,1 +1,6 @@
+Identify and extract the grantor's details from this deed file. Specifically, provide:
 
+Name of the grantor.
+Address listed for the grantor.
+Relationship status (if specified, such as "single," "married," or any other relationship description).
+If the information is missing, note it blank.
