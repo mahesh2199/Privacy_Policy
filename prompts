@@ -17,3 +17,5 @@ If a page has no meaningful label, state:
 Page [Number]: No label found
 
 Please analyze the attached file and summarize any special instructions or key details, but do not copy the instructions verbatim. Instead, rephrase them or extract the main ideas clearly in your own words.
+
+Please extract the address listed after the 'Address:' label from the file, ignoring any addresses mentioned in the header or other sections. Only provide the address directly associated with the 'Address:' label.
