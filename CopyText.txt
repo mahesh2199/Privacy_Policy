@@ -39,3 +39,5 @@ Mahesh Patil
 
 https://login.appian.com/email/verify/0oahe300a5UtvR5Hy697?token=ftcKQ6THsiAVyyVeIaPhRgzUTvSQM2h6KJ
 https://login.appian.com/email/verify/0oahe300a5UtvR5Hy697?token=ftYEfT9hL_9OWZvg0f3lyF1BEIBupTlk6e
+
+https://community.appian.com/p/my-learning-journey
