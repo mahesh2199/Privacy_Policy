@@ -1,3 +1,5 @@
+https://uipath.eu.auth0.com/lo/reset?ticket=9nNE78M80A98Sna9CBxiFY9F1COF7NDJ
+
 Subject: Request to Enroll in Appian Training
 
 Dear [Recipient's Name],
